@@ -1,0 +1,26 @@
+.home-container {
+    min-height: 90vh;
+    height:auto;
+    background-color: black;
+  }
+  
+  .library-column {
+    padding: 10px;
+    height: 100%;
+  }
+  
+  .content-column {
+    padding: 10px;
+    height: 100%;
+  }
+  
+  .promo-slider-row {
+    height: 60%; /* Ensure the promotional slider row takes up 60% of the column height */
+    padding-bottom: 10px;
+  }
+  
+  .news-section-row {
+    height: 40%; /* Ensure the news section row takes up 40% of the column height */
+    overflow-y: auto; /* Enable scrolling if content overflows */
+  }
+  

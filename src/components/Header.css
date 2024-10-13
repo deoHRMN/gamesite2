@@ -1,0 +1,26 @@
+#sign-out {
+    height: 40px;
+    padding: 0 10px;
+    min-width:fit-content;
+    border-radius: 25px;
+    border: 2px solid red;
+    background-color: transparent;
+    transition: background-color, color 0.15s ease-in-out;
+  }
+  
+  #sign-out:hover {
+    background-color: red;
+    color: black;
+  }
+
+.nav-link {
+    transition: 0.3s ease-in-out; /* Increased duration */
+    color: white;
+  }
+  
+  .nav-link:hover {
+    letter-spacing: 0.2rem; /* Increase the spacing on hover */
+    margin-right: 1rem;
+    margin-left: 1rem;
+    cursor: pointer;
+  }

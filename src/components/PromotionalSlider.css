@@ -1,0 +1,42 @@
+.promo-slider {
+    position: relative;
+    width: 100%;
+    border-radius: 10px;
+    margin: 0 auto;
+  }
+  
+  .promo-slide-image {
+    height: 400px; /* Adjust the height as needed */
+    object-fit: cover;
+    border-radius: 10px;
+  }
+  
+  .promo-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .dots-container {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .dot {
+    height: 12px;
+    width: 12px;
+    margin: 0 5px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.3s;
+    cursor: pointer;
+  }
+  
+  .dot.active {
+    background-color: #007bff;
+  }
+  

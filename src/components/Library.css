@@ -1,0 +1,23 @@
+.pagination-controls {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .game-card {
+    border: none;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .game-card:hover {
+    transform: scale(1.05);
+  }
+  
+ .card-title {
+    height: 0.5rem;
+ }
+
+  .game-card img {
+    object-fit: cover;
+    height: auto;
+  }
+  
