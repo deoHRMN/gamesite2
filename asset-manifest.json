@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gamesite2/static/css/main.f585de00.css",
+    "main.js": "/gamesite2/static/js/main.082b2c68.js",
+    "static/js/453.39b979f1.chunk.js": "/gamesite2/static/js/453.39b979f1.chunk.js",
+    "index.html": "/gamesite2/index.html",
+    "main.f585de00.css.map": "/gamesite2/static/css/main.f585de00.css.map",
+    "main.082b2c68.js.map": "/gamesite2/static/js/main.082b2c68.js.map",
+    "453.39b979f1.chunk.js.map": "/gamesite2/static/js/453.39b979f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f585de00.css",
+    "static/js/main.082b2c68.js"
+  ]
+}
